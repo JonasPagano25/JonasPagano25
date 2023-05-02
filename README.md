@@ -1,16 +1,16 @@
-### Hi there 👋
+# About me
 
-<!--
-**JonasPagano25/JonasPagano25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi everyone👋! I'm **Jonás Pagano**. I'm 18 years old, and I live in Argentina. <br>
 
-Here are some ideas to get you started:
+I'm currently on my last year at high school (*E.E.S.T N°7 "T.R.Q"*), and I want to study **Electronics Engineering**🔌 at university.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I spend most of my free time playing football⚽, videogames🎮 or watching series🎥.<br>
+
+I consider myself as a **curious** person, and I'm always trying to improve my knowledge and skills.<br>
+
+## <b>Let's keep in touch!
+<br>
+
+[<img src="https://seeklogo.com/images/I/instagram-new-2016-glyph-logo-84CB825424-seeklogo.com.png" width=50>](https://instagram.com/jonaspagano?igshid=YmMyMTA2M2Y=) [<img src="https://seeklogo.com/images/L/linkedin-black-icon-logo-ECC426C572-seeklogo.com.png" width=50>](https://www.linkedin.com/in/jon%C3%A1s-pagano-38392b268)
+
+ ---
