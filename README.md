@@ -5,13 +5,13 @@
 </div>
 
 ## About me
-I'm 18 years old, and I live in Argentina🇦🇷⭐⭐⭐. <br>
+🙋 <b>-</b> I'm 18 years old, and I live in Argentina🇦🇷⭐⭐⭐. <br>
 
-I'm currently on my last year at high school (<i><b>E.E.S.T N°7 "T.R.Q"</b></i>🏫), and I want to study **Electronics Engineering**🔌 at university.<br>
+🎓 <b>-</b> I'm currently on my last year at high school (<i><b>E.E.S.T N°7 "T.R.Q"</b></i>🏫), and I want to study **Electronics Engineering**🔌 at university.<br>
 
-I spend most of my free time playing football⚽, videogames🎮 or watching series🎥.<br>
+☺️ <b>-</b> I spend most of my free time playing football⚽, videogames🎮 or watching series🎥.<br>
 
-I consider myself as a **curious** person, and I'm always trying to improve my knowledge and skills💹.<br>
+📚 <b>-</b> I'm keen on everything related to maths and physics, but specially electronics. I consider myself as a **curious** person, and I'm always trying to improve my knowledge and skills💹.<br>
 
 ## <b>Let's keep in touch!
 <br>
