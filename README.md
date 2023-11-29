@@ -1,13 +1,13 @@
 <div id = "header" align = "center">
 <img src = "https://media.giphy.com/media/CkYl1qlzkxPRbklfXx/giphy.gif" height = 200/>
  <h1 align = "center">Hi there 👋! I'm Jonás Pagano</h1>
- <h2 align = "center">I'm an Avionics Technician Student✈️</h2>
+ <h2 align = "center">I'm an Avionics Technician✈️</h2>
 </div>
 
 ## About me
 🙋 <b>-</b> I'm 18 years old, and I live in Argentina🇦🇷⭐⭐⭐. <br>
 
-🎓 <b>-</b> I'm an Avionics Technician ✈️ and **Electronics Engineering**🔌 student.<br>
+🎓 <b>-</b> I'm studying **Electronics Engineering**🔌 at University 🏫.<br>
 
 ☺️ <b>-</b> I spend most of my free time playing football⚽, videogames🎮 or watching series🎥.<br>
 
