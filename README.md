@@ -7,7 +7,7 @@
 ## About me
 🙋 <b>-</b> I'm 18 years old, and I live in Argentina🇦🇷⭐⭐⭐. <br>
 
-🎓 <b>-</b> I'm studying **Electronics Engineering**🔌 at University 🏫.<br>
+🎓 <b>-</b> I'm studying **Electrical Engineering**🔌 at University 🏫.<br>
 
 ☺️ <b>-</b> I spend most of my free time playing football⚽, videogames🎮 or watching series🎥.<br>
 
